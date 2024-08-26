@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/ProximoInc/DevOps2/_apis/build/status%2Facurilcenco.WebApp2?branchName=master)](https://dev.azure.com/ProximoInc/DevOps2/_build/latest?definitionId=73&branchName=master)
